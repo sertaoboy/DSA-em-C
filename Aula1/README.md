@@ -100,6 +100,41 @@ int main() {
 - Em C, temos a estrutura em si. A implementacao em C **nao corresponde totalmente** a implementacao em Java.
 ### Ponteiros e alocacao de memoria
 - Em C ha uma distincao bastante explicita entre um tipo (ou estrutura) e um endereco:
-1. `int x;` significa que `x` e uma variavel do tipo **inteiro**
-2. `int* y;` significa que `y` e uma variavel do tipo **endereco para inteiro**.
+> `int x;` significa que `x` e uma variavel do tipo **inteiro** <br>
+> `int* y;` significa que `y` e uma variavel do tipo **endereco para inteiro**. <br>
 - O asterisco (*) apos a palavra _int_ indica que estamos falando de um **endereco para inteiro** e nao mais **de um inteiro**.
+```c++
+#include <stdio.h>
+int main() {
+    int x = 25; //1
+    int* y = &x; //2
+    *y = 30; //3
+    printf("Valor atual de x: %i\n", x);
+    return 0;
+```
+1. A variavel `x` e inicializada com valor com valor 25.
+2. A variavel `y` recebe o endereco onde esta a variavel `x`.
+3. Coloca-se o valor 30 na posicao de memoria referenciada (apontada) pelo endereco armazenado em `y`.
+- Em C ha uma funcao para alocacao de memoria: `malloc` (_memory allocation_)
+- Recebe como parametro o **numero de bytes** que se deseja alocar;
+- Retorna o endereco inicial do bloco de bytes que foi alocado, porem esse retorno tem o tipo `void*` (ponteiro para void);
+- Ha um operador chamado `sizeof` que recebe como parametro um tipo (simples ou composto) e retorna a quantidade de bytes ocupada por esse tipo.
+
+## Funcao malloc
+```c++
+#include <stdio.h>
+#include <malloc.h>
+int main() {
+    int* y = (int*) malloc(sizeof(int));
+    *y = 20;
+    int z = sizeof(int);
+    printf("*y=%i z=%i\n", *y, z);
+    return 0;
+}
+```
+- Saida:
+```shell
+$ *y=20 z=4
+```
+
+
