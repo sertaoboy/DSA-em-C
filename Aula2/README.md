@@ -51,9 +51,8 @@ void inicializarLista(LISTA* l) {
 }
 ```
 - Qual a diferenca entre os codigos?
-> - Na primeira funcao, e copiada a estrutura LISTA pelo seu parametro quando executada. No momento em que se atribuiu o valor 0 ao campo `nroElem` houve a modificacao somente na copia, a estrutura LISTA originalmente criada nao esta sendo acessada. Tudo que for modificado nessa copia, nao sera refletido na estrutura original. <br> 
-> <br>
-> - Na segunda, recebe-se como parametro o endereco da estrutura LISTA. Quando definimos `l->nroElementos = 0`, na verdade estamos acessando o endereco na qual a variavel `l` aponta (estrutura original LISTA) e atribuindo o valor nesta. Neste caso, todas as modificacoes serao feitas diretamente na estrutura original.<br>
+> Na primeira funcao, e copiada a estrutura LISTA pelo seu parametro quando executada. No momento em que se atribuiu o valor 0 ao campo `nroElem` houve a modificacao somente na copia, a estrutura LISTA originalmente criada nao esta sendo acessada. Tudo que for modificado nessa copia, nao sera refletido na estrutura original. <br> <br>
+> Na segunda, recebe-se como parametro o endereco da estrutura LISTA. Quando definimos `l->nroElementos = 0`, na verdade estamos acessando o endereco na qual a variavel `l` aponta (estrutura original LISTA) e atribuindo o valor nesta. Neste caso, todas as modificacoes serao feitas diretamente na estrutura original.<br>
 
 ## Retornar numero de elementos
 - Para esta estrutura basta retornar o valor do campo `nroElem`.
