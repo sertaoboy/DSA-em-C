@@ -135,6 +135,30 @@ DSA_com_C/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DSA_com_C.dir/build.make CMakeFiles/DSA_com_C.dir/build
 .PHONY : DSA_com_C/fast
 
+Aula2/Exemplos/exercicio.o: Aula2/Exemplos/exercicio.c.o
+.PHONY : Aula2/Exemplos/exercicio.o
+
+# target to build an object file
+Aula2/Exemplos/exercicio.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DSA_com_C.dir/build.make CMakeFiles/DSA_com_C.dir/Aula2/Exemplos/exercicio.c.o
+.PHONY : Aula2/Exemplos/exercicio.c.o
+
+Aula2/Exemplos/exercicio.i: Aula2/Exemplos/exercicio.c.i
+.PHONY : Aula2/Exemplos/exercicio.i
+
+# target to preprocess a source file
+Aula2/Exemplos/exercicio.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DSA_com_C.dir/build.make CMakeFiles/DSA_com_C.dir/Aula2/Exemplos/exercicio.c.i
+.PHONY : Aula2/Exemplos/exercicio.c.i
+
+Aula2/Exemplos/exercicio.s: Aula2/Exemplos/exercicio.c.s
+.PHONY : Aula2/Exemplos/exercicio.s
+
+# target to generate assembly for a file
+Aula2/Exemplos/exercicio.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DSA_com_C.dir/build.make CMakeFiles/DSA_com_C.dir/Aula2/Exemplos/exercicio.c.s
+.PHONY : Aula2/Exemplos/exercicio.c.s
+
 main.o: main.c.o
 .PHONY : main.o
 
@@ -168,6 +192,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... DSA_com_C"
+	@echo "... Aula2/Exemplos/exercicio.o"
+	@echo "... Aula2/Exemplos/exercicio.i"
+	@echo "... Aula2/Exemplos/exercicio.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

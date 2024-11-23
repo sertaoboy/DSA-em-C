@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/raul/Desktop/Projetos Github/DSA-em-C/Aula2/Exemplos/exercicio.c" "CMakeFiles/DSA_com_C.dir/Aula2/Exemplos/exercicio.c.o" "gcc" "CMakeFiles/DSA_com_C.dir/Aula2/Exemplos/exercicio.c.o.d"
   "/home/raul/Desktop/Projetos Github/DSA-em-C/main.c" "CMakeFiles/DSA_com_C.dir/main.c.o" "gcc" "CMakeFiles/DSA_com_C.dir/main.c.o.d"
   "" "DSA_com_C" "gcc" "CMakeFiles/DSA_com_C.dir/link.d"
   )

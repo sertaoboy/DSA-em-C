@@ -85,12 +85,12 @@ clean: CMakeFiles/DSA_com_C.dir/clean
 CMakeFiles/DSA_com_C.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DSA_com_C.dir/build.make CMakeFiles/DSA_com_C.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DSA_com_C.dir/build.make CMakeFiles/DSA_com_C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/home/raul/Desktop/Projetos Github/DSA-em-C/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target DSA_com_C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/home/raul/Desktop/Projetos Github/DSA-em-C/cmake-build-debug/CMakeFiles" --progress-num=1,2,3 "Built target DSA_com_C"
 .PHONY : CMakeFiles/DSA_com_C.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/DSA_com_C.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/raul/Desktop/Projetos Github/DSA-em-C/cmake-build-debug/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/raul/Desktop/Projetos Github/DSA-em-C/cmake-build-debug/CMakeFiles" 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/DSA_com_C.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "/home/raul/Desktop/Projetos Github/DSA-em-C/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/DSA_com_C.dir/rule

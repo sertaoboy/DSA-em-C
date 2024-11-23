@@ -3,4 +3,5 @@ project(DSA_com_C C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(DSA_com_C main.c)
+add_executable(DSA_com_C main.c
+        Aula2/Exemplos/exercicio.c)

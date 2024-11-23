@@ -1,1 +1,1 @@
-/usr/bin/cc -g -Wl,--dependency-file,CMakeFiles/DSA_com_C.dir/link.d CMakeFiles/DSA_com_C.dir/main.c.o -o DSA_com_C
+/usr/bin/cc -g -Wl,--dependency-file,CMakeFiles/DSA_com_C.dir/link.d CMakeFiles/DSA_com_C.dir/main.c.o CMakeFiles/DSA_com_C.dir/Aula2/Exemplos/exercicio.c.o -o DSA_com_C
