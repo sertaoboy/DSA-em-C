@@ -1,3 +1,3 @@
-/home/raul/Desktop/Projetos Github/DSA-em-C/cmake-build-debug/CMakeFiles/DSA_com_C.dir
-/home/raul/Desktop/Projetos Github/DSA-em-C/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/raul/Desktop/Projetos Github/DSA-em-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/raul/Área de trabalho/DSA/DSA com C/cmake-build-debug/CMakeFiles/DSA_com_C.dir
+/home/raul/Área de trabalho/DSA/DSA com C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/raul/Área de trabalho/DSA/DSA com C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
