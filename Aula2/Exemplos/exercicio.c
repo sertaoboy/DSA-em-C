@@ -17,6 +17,18 @@ typedef struct {
     int nroElem;
 } LISTA;
 
+int buscaSequencial(LISTA* l, TIPOCHAVE ch) {
+    int i =0;
+    while(i < l->nroElem) {
+        if(ch == l->A[i].chave) {
+            return i;
+        } else{
+            i++;
+        }
+        return -1;
+    }
+}
+
 bool inserirElemento(LISTA* l, REGISTRO reg, int posicao) {
     int aux;
     if (l->nroElem == 50 || posicao < 0 || posicao > l->nroElem) {
@@ -64,6 +76,7 @@ int main() {
     inserirElemento(&lista,reg2,1);
     inserirElemento(&lista,reg3,2);
     exibirLista(&lista); // Exibe a lista vazia
+    printf("Busca: %d\n", buscaSequencial(&lista, 20));
     return 0;
 }
 
