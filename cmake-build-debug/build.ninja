@@ -54,16 +54,314 @@ build CMakeFiles/DSA_com_C.dir/main.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/DSA_com_C.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir
-  TARGET_COMPILE_PDB = CMakeFiles/DSA_com_C.dir/
-  TARGET_PDB = DSA_com_C.pdb
 
 build CMakeFiles/DSA_com_C.dir/Aula2/Exemplos/exercicio.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Aula2/Exemplos/exercicio.c || cmake_object_order_depends_target_DSA_com_C
   DEP_FILE = CMakeFiles/DSA_com_C.dir/Aula2/Exemplos/exercicio.c.o.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/DSA_com_C.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Aula2/Exemplos
-  TARGET_COMPILE_PDB = CMakeFiles/DSA_com_C.dir/
-  TARGET_PDB = DSA_com_C.pdb
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Linear-Sequencial/listaSequencia.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lista-Linear-Sequencial/listaSequencia.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Linear-Sequencial/listaSequencia.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Linear-Sequencial
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Linear-Sequencial/usaListaSequencialInterativo.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lista-Linear-Sequencial/usaListaSequencialInterativo.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Linear-Sequencial/usaListaSequencialInterativo.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Linear-Sequencial
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(ESTATICA)/listaLigada.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lista-Ligada(ESTATICA)/listaLigada.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(ESTATICA)/listaLigada.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(ESTATICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(ESTATICA)/listaLigada.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(ESTATICA)/usaListaLigadaInterativo.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lista-Ligada(ESTATICA)/usaListaLigadaInterativo.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(ESTATICA)/usaListaLigadaInterativo.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(ESTATICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(ESTATICA)/usaListaLigadaInterativo.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/listaLigadaD.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lista-Ligada(DINAMICA)/listaLigadaD.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/listaLigadaD.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/listaLigadaD.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/usaListaLigadaInterativo.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lista-Ligada(DINAMICA)/usaListaLigadaInterativo.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/usaListaLigadaInterativo.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/usaListaLigadaInterativo.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/filaEmLLD.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lista-Ligada(DINAMICA)/filaEmLLD.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/filaEmLLD.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/filaEmLLD.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/usaFilaEmLLD.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lista-Ligada(DINAMICA)/usaFilaEmLLD.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/usaFilaEmLLD.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/usaFilaEmLLD.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/pilhaEmLLD.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lista-Ligada(DINAMICA)/pilhaEmLLD.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/pilhaEmLLD.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/pilhaEmLLD.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/usaPilhaEmLLD.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lista-Ligada(DINAMICA)/usaPilhaEmLLD.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/usaPilhaEmLLD.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/usaPilhaEmLLD.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/pilhaInvertidaEmLLD.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lista-Ligada(DINAMICA)/pilhaInvertidaEmLLD.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/pilhaInvertidaEmLLD.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/pilhaInvertidaEmLLD.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/usaPilhaInvertidaEmLLD.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lista-Ligada(DINAMICA)/usaPilhaInvertidaEmLLD.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/usaPilhaInvertidaEmLLD.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/usaPilhaInvertidaEmLLD.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada-Sentinela/listaLigadaSentinela.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lista-Ligada-Sentinela/listaLigadaSentinela.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada-Sentinela/listaLigadaSentinela.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada-Sentinela
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada-Sentinela/usaListaLigadaInterativo.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lista-Ligada-Sentinela/usaListaLigadaInterativo.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada-Sentinela/usaListaLigadaInterativo.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada-Sentinela
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada-Cabeca-Circular/listaLigadaCabCirc.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lista-Ligada-Cabeca-Circular/listaLigadaCabCirc.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada-Cabeca-Circular/listaLigadaCabCirc.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada-Cabeca-Circular
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada-Cabeca-Circular/usaListaLigadaInterativoCC.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lista-Ligada-Cabeca-Circular/usaListaLigadaInterativoCC.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada-Cabeca-Circular/usaListaLigadaInterativoCC.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada-Cabeca-Circular
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/filaEstatica.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Fila$ (ESTATICA)/filaEstatica.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/filaEstatica.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/filaEstatica.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/usaFilaEstatica.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Fila$ (ESTATICA)/usaFilaEstatica.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/usaFilaEstatica.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/usaFilaEstatica.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/impl2/filaEstatica.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Fila$ (ESTATICA)/impl2/filaEstatica.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/impl2/filaEstatica.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/impl2"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/impl2/filaEstatica.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/impl2/usaFilaEstatica.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Fila$ (ESTATICA)/impl2/usaFilaEstatica.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/impl2/usaFilaEstatica.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/impl2"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/impl2/usaFilaEstatica.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Fila(DINAMICA)/filaDinamica.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Fila(DINAMICA)/filaDinamica.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Fila(DINAMICA)/filaDinamica.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Fila(DINAMICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Fila(DINAMICA)/filaDinamica.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Fila(DINAMICA)/usaFilaDinamica.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Fila(DINAMICA)/usaFilaDinamica.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Fila(DINAMICA)/usaFilaDinamica.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Fila(DINAMICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Fila(DINAMICA)/usaFilaDinamica.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Deque_(DINAMICO)/DequeDinamico.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Deque$ (DINAMICO)/DequeDinamico.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Deque_(DINAMICO)/DequeDinamico.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Deque_(DINAMICO)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Deque_(DINAMICO)/DequeDinamico.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Deque_(DINAMICO)/usaDeque.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Deque$ (DINAMICO)/usaDeque.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Deque_(DINAMICO)/usaDeque.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Deque_(DINAMICO)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Deque_(DINAMICO)/usaDeque.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Pilha(ESTATICA)/pilhaEstatica.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Pilha(ESTATICA)/pilhaEstatica.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Pilha(ESTATICA)/pilhaEstatica.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Pilha(ESTATICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Pilha(ESTATICA)/pilhaEstatica.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Pilha(ESTATICA)/usaPilhaEstatica.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Pilha(ESTATICA)/usaPilhaEstatica.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Pilha(ESTATICA)/usaPilhaEstatica.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Pilha(ESTATICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Pilha(ESTATICA)/usaPilhaEstatica.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_Dupla(ESTATICA)/duasPilhasEstaticas.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Pilha$ Dupla(ESTATICA)/duasPilhasEstaticas.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_Dupla(ESTATICA)/duasPilhasEstaticas.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_Dupla(ESTATICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_Dupla(ESTATICA)/duasPilhasEstaticas.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_Dupla(ESTATICA)/usaDuasPilhasEstaticas.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Pilha$ Dupla(ESTATICA)/usaDuasPilhasEstaticas.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_Dupla(ESTATICA)/usaDuasPilhasEstaticas.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_Dupla(ESTATICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_Dupla(ESTATICA)/usaDuasPilhasEstaticas.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_(DINAMICA)/pilhaDinamica.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Pilha$ (DINAMICA)/pilhaDinamica.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_(DINAMICA)/pilhaDinamica.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_(DINAMICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_(DINAMICA)/pilhaDinamica.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_(DINAMICA)/usaPilhaDinamica.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Pilha$ (DINAMICA)/usaPilhaDinamica.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_(DINAMICA)/usaPilhaDinamica.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_(DINAMICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_(DINAMICA)/usaPilhaDinamica.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lisa-Duplamente-Ligada-Circular-Cabeca(DINAMICA)/listaDuplamenteLigadaCC.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lisa-Duplamente-Ligada-Circular-Cabeca(DINAMICA)/listaDuplamenteLigadaCC.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Lisa-Duplamente-Ligada-Circular-Cabeca(DINAMICA)/listaDuplamenteLigadaCC.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Lisa-Duplamente-Ligada-Circular-Cabeca(DINAMICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Lisa-Duplamente-Ligada-Circular-Cabeca(DINAMICA)/listaDuplamenteLigadaCC.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Lisa-Duplamente-Ligada-Circular-Cabeca(DINAMICA)/usaListaLigadaInterativoDCC.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Lisa-Duplamente-Ligada-Circular-Cabeca(DINAMICA)/usaListaLigadaInterativoDCC.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = "CMakeFiles/DSA_com_C.dir/Exemplos/Lisa-Duplamente-Ligada-Circular-Cabeca(DINAMICA)/usaListaLigadaInterativoDCC.c.o.d"
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = "CMakeFiles/DSA_com_C.dir/Exemplos/Lisa-Duplamente-Ligada-Circular-Cabeca(DINAMICA)"
+  depfile = CMakeFiles/DSA_com_C.dir/Exemplos/Lisa-Duplamente-Ligada-Circular-Cabeca(DINAMICA)/usaListaLigadaInterativoDCC.c.o.d
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-Binaria/arvoreBinaria.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Arvore-Binaria/arvoreBinaria.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-Binaria/arvoreBinaria.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-Binaria
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria/arvoreDeBuscaBinaria.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Arvore-De-Busca-Binaria/arvoreDeBuscaBinaria.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria/arvoreDeBuscaBinaria.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria/usaArvoreDeBuscaBinaria.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Arvore-De-Busca-Binaria/usaArvoreDeBuscaBinaria.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria/usaArvoreDeBuscaBinaria.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Heap/heap.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Heap/heap.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Heap/heap.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Heap
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Heap/heap2.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Heap/heap2.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Heap/heap2.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Heap
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-Enaria1/arvoreEnaria1.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Arvore-Enaria1/arvoreEnaria1.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-Enaria1/arvoreEnaria1.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-Enaria1
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-Enaria2/arvoreEnaria2.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Arvore-Enaria2/arvoreEnaria2.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-Enaria2/arvoreEnaria2.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-Enaria2
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2/arvoreDeBuscaBinaria2.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Arvore-De-Busca-Binaria2/arvoreDeBuscaBinaria2.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2/arvoreDeBuscaBinaria2.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2/usaArvoreDeBuscaBinaria2.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Arvore-De-Busca-Binaria2/usaArvoreDeBuscaBinaria2.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2/usaArvoreDeBuscaBinaria2.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2/filaEmLLD.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Arvore-De-Busca-Binaria2/filaEmLLD.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2/filaEmLLD.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2/listaLigadaD.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Arvore-De-Busca-Binaria2/listaLigadaD.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2/listaLigadaD.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2/pilhaInvertidaEmLLD.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/Arvore-De-Busca-Binaria2/pilhaInvertidaEmLLD.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2/pilhaInvertidaEmLLD.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/ArvoreAVL/arvoreAVL.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/ArvoreAVL/arvoreAVL.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/ArvoreAVL/arvoreAVL.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/ArvoreAVL
+
+build CMakeFiles/DSA_com_C.dir/Exemplos/ArvoreAVL/usaArvoreAVL.c.o: C_COMPILER__DSA_com_C_unscanned_Debug /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/Exemplos/ArvoreAVL/usaArvoreAVL.c || cmake_object_order_depends_target_DSA_com_C
+  DEP_FILE = CMakeFiles/DSA_com_C.dir/Exemplos/ArvoreAVL/usaArvoreAVL.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_com_C.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_com_C.dir/Exemplos/ArvoreAVL
 
 
 # =============================================================================
@@ -73,16 +371,15 @@ build CMakeFiles/DSA_com_C.dir/Aula2/Exemplos/exercicio.c.o: C_COMPILER__DSA_com
 #############################################
 # Link the executable DSA_com_C
 
-build DSA_com_C: C_EXECUTABLE_LINKER__DSA_com_C_Debug CMakeFiles/DSA_com_C.dir/main.c.o CMakeFiles/DSA_com_C.dir/Aula2/Exemplos/exercicio.c.o
+build DSA_com_C: C_EXECUTABLE_LINKER__DSA_com_C_Debug CMakeFiles/DSA_com_C.dir/main.c.o CMakeFiles/DSA_com_C.dir/Aula2/Exemplos/exercicio.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Linear-Sequencial/listaSequencia.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Linear-Sequencial/usaListaSequencialInterativo.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(ESTATICA)/listaLigada.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(ESTATICA)/usaListaLigadaInterativo.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/listaLigadaD.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/usaListaLigadaInterativo.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/filaEmLLD.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/usaFilaEmLLD.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/pilhaEmLLD.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/usaPilhaEmLLD.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/pilhaInvertidaEmLLD.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada(DINAMICA)/usaPilhaInvertidaEmLLD.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada-Sentinela/listaLigadaSentinela.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada-Sentinela/usaListaLigadaInterativo.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada-Cabeca-Circular/listaLigadaCabCirc.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lista-Ligada-Cabeca-Circular/usaListaLigadaInterativoCC.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/filaEstatica.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/usaFilaEstatica.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/impl2/filaEstatica.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Fila_(ESTATICA)/impl2/usaFilaEstatica.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Fila(DINAMICA)/filaDinamica.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Fila(DINAMICA)/usaFilaDinamica.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Deque_(DINAMICO)/DequeDinamico.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Deque_(DINAMICO)/usaDeque.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Pilha(ESTATICA)/pilhaEstatica.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Pilha(ESTATICA)/usaPilhaEstatica.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_Dupla(ESTATICA)/duasPilhasEstaticas.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_Dupla(ESTATICA)/usaDuasPilhasEstaticas.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_(DINAMICA)/pilhaDinamica.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Pilha_(DINAMICA)/usaPilhaDinamica.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lisa-Duplamente-Ligada-Circular-Cabeca(DINAMICA)/listaDuplamenteLigadaCC.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Lisa-Duplamente-Ligada-Circular-Cabeca(DINAMICA)/usaListaLigadaInterativoDCC.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-Binaria/arvoreBinaria.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria/arvoreDeBuscaBinaria.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria/usaArvoreDeBuscaBinaria.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Heap/heap.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Heap/heap2.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-Enaria1/arvoreEnaria1.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-Enaria2/arvoreEnaria2.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2/arvoreDeBuscaBinaria2.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2/usaArvoreDeBuscaBinaria2.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2/filaEmLLD.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2/listaLigadaD.c.o CMakeFiles/DSA_com_C.dir/Exemplos/Arvore-De-Busca-Binaria2/pilhaInvertidaEmLLD.c.o CMakeFiles/DSA_com_C.dir/Exemplos/ArvoreAVL/arvoreAVL.c.o CMakeFiles/DSA_com_C.dir/Exemplos/ArvoreAVL/usaArvoreAVL.c.o
   DEP_FILE = CMakeFiles/DSA_com_C.dir/link.d
   FLAGS = -g
   LINK_FLAGS = -Wl,--dependency-file,CMakeFiles/DSA_com_C.dir/link.d
   OBJECT_DIR = CMakeFiles/DSA_com_C.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = CMakeFiles/DSA_com_C.dir/
   TARGET_FILE = DSA_com_C
-  TARGET_PDB = DSA_com_C.pdb
+  TARGET_PDB = DSA_com_C.dbg
 
 
 #############################################
@@ -135,14 +432,14 @@ build all: phony DSA_com_C
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/CMakeLists.txt /usr/share/cmake/Modules/CMakeCCompiler.cmake.in /usr/share/cmake/Modules/CMakeCCompilerABI.c /usr/share/cmake/Modules/CMakeCInformation.cmake /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake/Modules/CMakeCompilerIdDetection.cmake /usr/share/cmake/Modules/CMakeDetermineCCompiler.cmake /usr/share/cmake/Modules/CMakeDetermineCompiler.cmake /usr/share/cmake/Modules/CMakeDetermineCompilerABI.cmake /usr/share/cmake/Modules/CMakeDetermineCompilerId.cmake /usr/share/cmake/Modules/CMakeDetermineCompilerSupport.cmake /usr/share/cmake/Modules/CMakeDetermineSystem.cmake /usr/share/cmake/Modules/CMakeFindBinUtils.cmake /usr/share/cmake/Modules/CMakeGenericSystem.cmake /usr/share/cmake/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake/Modules/CMakeLanguageInformation.cmake /usr/share/cmake/Modules/CMakeParseImplicitIncludeInfo.cmake /usr/share/cmake/Modules/CMakeParseImplicitLinkInfo.cmake /usr/share/cmake/Modules/CMakeParseLibraryArchitecture.cmake /usr/share/cmake/Modules/CMakeSystem.cmake.in /usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake/Modules/CMakeTestCCompiler.cmake /usr/share/cmake/Modules/CMakeTestCompilerCommon.cmake /usr/share/cmake/Modules/Compiler/ADSP-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/ARMCC-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/ARMClang-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/AppleClang-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Borland-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake/Modules/Compiler/Clang-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /usr/share/cmake/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Cray-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/CrayClang-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/GHS-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/GNU-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/GNU-C.cmake /usr/share/cmake/Modules/Compiler/GNU-FindBinUtils.cmake /usr/share/cmake/Modules/Compiler/GNU.cmake /usr/share/cmake/Modules/Compiler/HP-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/IAR-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /usr/share/cmake/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Intel-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/LCC-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/MSVC-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/NVHPC-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/OrangeC-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/PGI-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/PathScale-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/SCO-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/TI-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/TIClang-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Tasking-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Watcom-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/XL-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/zOS-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Internal/CMakeCLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeDetermineLinkerId.cmake /usr/share/cmake/Modules/Internal/FeatureTesting.cmake /usr/share/cmake/Modules/Linker/GNU-C.cmake /usr/share/cmake/Modules/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-C.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake/Modules/Platform/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-Initialize.cmake /usr/share/cmake/Modules/Platform/Linux.cmake /usr/share/cmake/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.31.1/CMakeCCompiler.cmake CMakeFiles/3.31.1/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/CMakeLists.txt /usr/share/cmake/Modules/CMakeCInformation.cmake /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake/Modules/CMakeGenericSystem.cmake /usr/share/cmake/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake/Modules/CMakeLanguageInformation.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake/Modules/Compiler/GNU-C.cmake /usr/share/cmake/Modules/Compiler/GNU.cmake /usr/share/cmake/Modules/Internal/CMakeCLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake /usr/share/cmake/Modules/Linker/GNU-C.cmake /usr/share/cmake/Modules/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-C.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake/Modules/Platform/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-Initialize.cmake /usr/share/cmake/Modules/Platform/Linux.cmake /usr/share/cmake/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.31.1/CMakeCCompiler.cmake CMakeFiles/3.31.1/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/CMakeLists.txt /usr/share/cmake/Modules/CMakeCCompiler.cmake.in /usr/share/cmake/Modules/CMakeCCompilerABI.c /usr/share/cmake/Modules/CMakeCInformation.cmake /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake/Modules/CMakeCompilerIdDetection.cmake /usr/share/cmake/Modules/CMakeDetermineCCompiler.cmake /usr/share/cmake/Modules/CMakeDetermineCompiler.cmake /usr/share/cmake/Modules/CMakeDetermineCompilerABI.cmake /usr/share/cmake/Modules/CMakeDetermineCompilerId.cmake /usr/share/cmake/Modules/CMakeDetermineCompilerSupport.cmake /usr/share/cmake/Modules/CMakeDetermineSystem.cmake /usr/share/cmake/Modules/CMakeFindBinUtils.cmake /usr/share/cmake/Modules/CMakeGenericSystem.cmake /usr/share/cmake/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake/Modules/CMakeLanguageInformation.cmake /usr/share/cmake/Modules/CMakeParseImplicitIncludeInfo.cmake /usr/share/cmake/Modules/CMakeParseImplicitLinkInfo.cmake /usr/share/cmake/Modules/CMakeParseLibraryArchitecture.cmake /usr/share/cmake/Modules/CMakeSystem.cmake.in /usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake/Modules/CMakeTestCCompiler.cmake /usr/share/cmake/Modules/CMakeTestCompilerCommon.cmake /usr/share/cmake/Modules/Compiler/ADSP-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/ARMCC-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/ARMClang-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/AppleClang-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Borland-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake/Modules/Compiler/Clang-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /usr/share/cmake/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Cray-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/CrayClang-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/GHS-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/GNU-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/GNU-C.cmake /usr/share/cmake/Modules/Compiler/GNU-FindBinUtils.cmake /usr/share/cmake/Modules/Compiler/GNU.cmake /usr/share/cmake/Modules/Compiler/HP-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/IAR-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /usr/share/cmake/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Intel-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/LCC-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/MSVC-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/NVHPC-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/OrangeC-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/PGI-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/PathScale-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/SCO-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/TI-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/TIClang-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Tasking-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/Watcom-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/XL-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Compiler/zOS-C-DetermineCompiler.cmake /usr/share/cmake/Modules/Internal/CMakeCLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeDetermineLinkerId.cmake /usr/share/cmake/Modules/Internal/FeatureTesting.cmake /usr/share/cmake/Modules/Linker/GNU-C.cmake /usr/share/cmake/Modules/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-C.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake/Modules/Platform/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-Initialize.cmake /usr/share/cmake/Modules/Platform/Linux.cmake /usr/share/cmake/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.31.1/CMakeCCompiler.cmake CMakeFiles/3.31.1/CMakeSystem.cmake: phony
+build /home/raul/Área$ de$ trabalho/DSA/DSA$ com$ C/CMakeLists.txt /usr/share/cmake/Modules/CMakeCInformation.cmake /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake/Modules/CMakeGenericSystem.cmake /usr/share/cmake/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake/Modules/CMakeLanguageInformation.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake/Modules/Compiler/GNU-C.cmake /usr/share/cmake/Modules/Compiler/GNU.cmake /usr/share/cmake/Modules/Internal/CMakeCLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake /usr/share/cmake/Modules/Linker/GNU-C.cmake /usr/share/cmake/Modules/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-C.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake/Modules/Platform/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-Initialize.cmake /usr/share/cmake/Modules/Platform/Linux.cmake /usr/share/cmake/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.31.1/CMakeCCompiler.cmake CMakeFiles/3.31.1/CMakeSystem.cmake: phony
 
 
 #############################################
